@@ -1,4 +1,4 @@
-# xvfb-chrome-node
+# java-node
 
 a container with java and nodejs.
 

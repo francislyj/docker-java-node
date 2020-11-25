@@ -1,0 +1,9 @@
+# push readme
+docker pushrm francislyj/xvfb-chrome-node
+
+# create image
+docker image build -t francislyj/java-node:1.0.0 .
+
+# push image
+docker image push francislyj/java-node:1.0.0
+
